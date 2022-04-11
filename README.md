@@ -3,7 +3,9 @@
 The purpose of these programs is to simulate a file system manager within a shell.
 
 
+
 Within the shell the following commands can be perfromed:
+
 
 
 ls : This command will list out all the files in the current directory.
@@ -28,7 +30,9 @@ df: This command will show the user both th free and used disk space of the file
 
 
 
+
 Within the file system manager the following commands can be performed:
+
 root: initilizes the root dir
 
 print: prints working directory 
@@ -44,6 +48,7 @@ szfil: resize
 chdir: changes current directory working
 
 exit: end the prog
+
 
 
 
