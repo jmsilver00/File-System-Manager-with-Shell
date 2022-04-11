@@ -4,7 +4,7 @@ The purpose of these programs is to simulate a file system manager within a shel
 
 
 
-*Within the shell the following commands can be perfromed:
+--Within the shell the following commands can be perfromed:--
 
 
 
@@ -32,7 +32,7 @@ df: This command will show the user both th free and used disk space of the file
 
 
 
-*Within the file system manager the following commands can be performed:
+--Within the file system manager the following commands can be performed:--
 
 root: initilizes the root dir
 
